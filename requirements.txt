@@ -1,0 +1,14 @@
+python3=3.6.8
+pandas
+numpy
+scikit-learn
+catboost
+lightgbm
+xgboost
+optuna
+shap
+matplotlib
+seaborn
+pyspark
+tqdm
+jupyter
