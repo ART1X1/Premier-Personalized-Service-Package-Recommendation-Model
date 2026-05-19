@@ -75,9 +75,9 @@ Premier-Personalized-Service-Package-Recommendation-Model/
 
 │   └── bpm_features.py
 
-│
+├── REAME.md
 
-└── README.md
+└── requirements.txt
 ```
 
 ## Main modules
